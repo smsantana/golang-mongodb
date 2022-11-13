@@ -7,12 +7,12 @@ Esse projeto faz parte de uma série de vídeos do Canal <a href="https://www.yo
 - Go 1.18 ou superior
 
 ## Checklist
-- [x] CRUD
-    - [x] CREATE
-    - [x] READ (GET AND LIST)
-    - [x] UPDATE
-    - [x] DELETE
-- [x] UUID
+- [ ] CRUD
+    - [ ] CREATE
+    - [ ] READ (GET AND LIST)
+    - [ ] UPDATE
+    - [ ] DELETE
+- [ ] UUID
 - [ ] API
     - [ ] Service
     - [ ] Validation
